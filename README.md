@@ -12,6 +12,7 @@ https://creativecommons.org/licenses/by-nd/2.1/jp/
 
 
 ## Neural Topic Model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3yrin/NTM/blob/master/NTM_jp.ipynb)
 
 ### Reference 
 * yuewang-cuhk/TAKG
@@ -28,6 +29,8 @@ https://github.com/ysmiao/nvdm/
 ***GPU instance is recommended.*** If training is too slow, please check instance type of Google Colaboratory.
 
 ## LDA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m3yrin/NTM/blob/master/LDA_jp.ipynb)
+
 ### Reference
 http://tdual.hatenablog.com/entry/2018/04/09/133000
 
