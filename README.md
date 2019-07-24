@@ -24,6 +24,7 @@ https://github.com/ysmiao/nvdm/
 * yuewang-cuhk' s NTM implementation is partially used.
 * tdual' s script is massively cited.
 * janome tokenizer is used instead of Mecab.
+  
 ***GPU instance is recommended.*** If training is too slow, please check instance type of Google Colaboratory.
 
 ## LDA
