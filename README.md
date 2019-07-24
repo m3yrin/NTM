@@ -1,4 +1,4 @@
-# NTM
+# Neural Topic Modeling
 Testing of Neural Topic Modeling for Japanese articles
 
 This repository intended to test performance of Neural Topic Model and Gensim LDA.
